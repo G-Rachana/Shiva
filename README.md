@@ -1,11 +1,11 @@
-# PROJECT TITLE:     SEASONAL CROPS
+![Screenshot 2024-06-15 215243](https://github.com/G-Rachana/Shiva/assets/161605120/0a784c3a-bf19-49bf-abba-9579ea49aa8b)# PROJECT TITLE:     SEASONAL CROPS
 
 # PROJECT DESCRIPTION:
           The Website is about the SEASONAL CROPS and there requirements, which is build using HTML, CSS and some azure resources. Which gives Awareness about the SEASONAL CROPS to reduce water wastage and improve the soil fertility, crop yield to the Farmers. Gives the complete information about the crops to the Students.Our website, Seasonal crops is created for aiming to bring awareness in Students and Farmers to cultivate the crops according to the seasons which brings sustainability as it reduces water wastage ,good climatic conditions, improve soil fertility and also helps in producing high crop yields.
            Seasonal crops serves as an Awareness platform, providing students with valuable insights into agricultural science. We offer detailed information on seasonal crops, water requirements, weather conditions, soil fertility, and organic fertilizers which helps to reduce the water wastage, improves crop yield and soil fertility. It's also serves as your trusted partner in sustainable agriculture and education. Our mission is to empower students and farmers with the knowledge and resources needed to cultivate thriving crops and promote sustainable farming practices.
 Project Link:
 Project demo video link:
-# AZURE TECHNOLOGIES USED FOR PROJECT
+# AZURE TECHNOLOGIES USED FOR PROJECT:
 
 # Core Azure Services:
 # Azure Static Web apps:
@@ -17,3 +17,8 @@ An Azure storage account contains all of your Azure Storage data objects: blobs,
 # Azure AI Services:
 # QnA:
 QnA Maker is a cloud-based Natural Language Processing service that allows you to create a natural conversational layer over your data. It is used to find the most appropriate answer for any input from your custom knowledge base of information.
+# SCREENSHOTS:
+# HOME PAGE:
+
+![Uploading Screenshot 2024-06-15 215243.png…]()
+
